@@ -1,0 +1,9 @@
+// Reading  Json format with python
+
+1.read from csv file 
+2. write to excel file
+3.read and write from json file in pandas
+4.check index column and also specific columns.
+5.store and read specific columns.
+6. matplot used to draw lines
+7.made histogram

@@ -1,0 +1,30 @@
+import numpy as np;
+
+np.arange(20);
+
+Conda: its a package manager application that quickly installs runs and updates packages
+               and their dependencies.
+            its primarily interface for managing installation of various packages.
+
+Pandas : its a python package providing fast,flexible, and expressive data structure designed
+                to work with relational and labelled data both easy and intutive.
+
+Numpy: its needed for scientific calculation in python
+
+Seaborn : its a python visualization library based on matplotlib. It provide high level
+                   interface for drawing attractive statistical graphics.
+
+Statsmodel : its python package to provide a complement to scipy for statistical computations descriptive statistics
+                      and estimate inference for statistics models.
+
+Jupyter notebook ac run R codes also:
+               conda install -c r -essentials
+
+try.jupyter.org : online code
+
+start spyder
+jupyter notebook
+
+Bokeh : is a Python interactive visualization library that targets modern web browsers for presentation.
+ Its goal is to provide elegant, concise construction of novel graphics in the style of D3.js,
+ and to extend this capability with high-performance interactivity over very large or streaming datasets. .
